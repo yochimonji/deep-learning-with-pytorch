@@ -21,6 +21,9 @@
     },
     "extensions": [
         "ms-python.python",
+        "ms-toolsai.jupyter",
         "donjayamanne.githistory",
+        "yzhang.markdown-all-in-one",
+        "oderwat.indent-rainbow"
     ]
 }
