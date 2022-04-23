@@ -5,7 +5,8 @@ services:
     working_dir: /workspace
     tty: true
     volumes:
-      - ./:/workspace:cached
+      - .:/workspace:cached
+      - /workspace/.venv
     ports:
       - 8888:8888
     runtime: nvidia
