@@ -19,6 +19,7 @@ matplotlib = "*"
 jupyter = "*"
 torch = {version = "*", index = "downloadpytorch"}
 torchvision = {version = "*", index = "downloadpytorch"}
+h5py = "*"
 
 [dev-packages]
 mypy = "*"
