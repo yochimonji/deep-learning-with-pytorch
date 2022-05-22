@@ -20,6 +20,9 @@ jupyter = "*"
 torch = {version = "*", index = "downloadpytorch"}
 torchvision = {version = "*", index = "downloadpytorch"}
 h5py = "*"
+pillow = "*"
+pandas = "*"
+scipy = "*"
 
 [dev-packages]
 mypy = "*"
